@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2020-10-19 03:35:46.875 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.1.0 - (938214): instance a816c00e-0175-3eed-6528-00000dc4aa00 
+on database directory D:\Project\derby_db\mydb\contact_user   with class loader sun.misc.Launcher$AppClassLoader@3da997a
+
+Database Class Loader started - derby.database.classpath=''
